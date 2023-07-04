@@ -12,4 +12,4 @@ Reconstruction methods:
 - FDT OR and SSNP Reconstruction combined: The output of the FDT OR is used as input for the SSNP reconstruction
 
 ## Installation
-The code can be installed if both Param and TensorFlow are installed. Tutorials are presented in https://param.holoviz.org/ and \https://www.tensorflow.org/install
+The code can be installed if both Param and TensorFlow are installed. Tutorials are presented in https://param.holoviz.org/ and https://www.tensorflow.org/install
